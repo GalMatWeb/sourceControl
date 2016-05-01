@@ -1,0 +1,17 @@
+{
+  "name": "sourcecontrol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
+    "shelljs": "^0.7.0"
+  }
+}
